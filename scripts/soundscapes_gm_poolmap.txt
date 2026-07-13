@@ -1,0 +1,55 @@
+poolmap.outdoor
+{
+    "dsp" "0"
+
+    "playlooping"
+    {
+        "wave" "ambience/wind1.wav"
+        "volume" "0.5"
+        "pitch" "100"
+    }
+    
+    "playlooping"
+    {
+        "wave" "ambient\atmosphere\tone_alley.wav"
+        "volume" "0.5"
+        "pitch" "100"
+    }
+}
+
+poolmap.poolroom
+{
+    "dsp" "0"
+
+    "playlooping"
+    {
+        "wave" "ambient\atmosphere\corridor2.wav"
+        "volume" "1"
+        "pitch" "100"
+    }
+}
+
+poolmap.changeroom
+{
+    "dsp" "0"
+
+    "playlooping"
+    {
+        "wave" "ambient\levels\canals\tunnel_wind_loop1.wav"
+        "volume" "0.5"
+        "pitch" "100"
+    }
+}
+
+poolmap.hallways
+{
+    "dsp" "0"
+
+    "playlooping"
+    {
+        "wave" "ambient/machines/lab_loop1.wav"
+        "volume" "0.5"
+        "pitch" "100"
+    }
+}
+
